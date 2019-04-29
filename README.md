@@ -1,2 +1,3 @@
-# Hello-world
-First C program
+This is my first repository of git!!!
+
+
